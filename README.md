@@ -47,7 +47,7 @@ In this Project, it has all the features that can be found in PHP MYSQL (PDO) Lo
 
 #### Database Data
 * As you can see, our passwords are saved in the database in MD5 format.
-![alt text](https://github.com/FRTYZ/Making-Login-Page-in-MD5-format-with-PHP-MYSQL-PDO/blob/main/img/ss/user-database.png?raw=true)
+![alt text](https://github.com/FRTYZ/Making-Login-Page-in-MD5-format-with-PHP-MYSQL-PDO/blob/main/img/ss/user-database-data.png?raw=true)
 
 ## Source Codes
 * Related explanations are in the source code
